@@ -8,6 +8,16 @@
 It was originally developed as a guest lecture for a software engineering (SE) course to provide Bachelor level students with a general overview of (RE) theory[^1] and techniques.[^2]
 The material does not require any prior knowledge about RE, but assumes a basic understanding of SE process models.
 
+## Structure
+
+The seminar is structured as a set of modular units.
+Currently, the seminar content covers the following units.
+
+| Unit | Content | Prerequisites |
+|---|---|---|
+| `base` | Fundamental theories and techniques of RE | Fundamentals of SE |
+| `re4ai` | Specific implications of artificial intelligence for RE | `base`, fundamentals of AI |
+
 ## Files
 
 This repository contains the following files.
@@ -16,7 +26,8 @@ This repository contains the following files.
 ├── figures: additional visual material
 │   └── preview.png: opening slide of the main slide deck
 ├── slides: collection of slide decks for introducing RE
-│   └── base: fundamental knowledge and techniques of RE
+│   ├── base: fundamental knowledge and techniques of RE
+│   └── re4ai: requirements engineering for artificial intelligence
 └── LICENSE.md : license file clarifying reuse of this material
 ```
 
