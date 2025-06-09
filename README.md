@@ -2,23 +2,30 @@
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0)
 
-[![Download slides as PDF](figures/preview.jpg)](./Fundamentals%20of%20Requirements%20Engineering.pdf)
+[![Download slides as PDF](figures/preview.jpg)](./slides/base/seminar-refun-base.pdf)
 
 **Requirements Engineering: a brief introduction** is a very concise summary of the most important concepts of requirements engineering (RE) and their application. 
 It was originally developed as a guest lecture for a software engineering (SE) course to provide Bachelor level students with a general overview of (RE) theory[^1] and techniques.[^2]
 The material does not require any prior knowledge about RE, but assumes a basic understanding of SE process models.
 
-## Structure
+## Files
 
 This repository contains the following files.
 
 ```
 ├── figures: additional visual material
 │   └── preview.png: opening slide of the main slide deck
-├── Fundamentals of Requirements Engineering.pdf: pre-compiled slides (without animations)
-├── Fundamentals of Requirements Engineering.pptx: presentable PowerPoint-version of the slides
+├── slides: collection of slide decks for introducing RE
+│   └── base: fundamental knowledge and techniques of RE
 └── LICENSE.md : license file clarifying reuse of this material
 ```
+
+The actual presentation files are contained within the subdirectories of the *slides* directory.
+Every subdirectory represents one unit.
+
+> [!info]
+> Every directory within *slides* contains botha a `.pdf` and `.pptx` version.
+> The former is more widely compatible, the latter contains animations and smoother transitions.
 
 ## License
 
