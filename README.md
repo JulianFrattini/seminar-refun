@@ -1,24 +1,31 @@
 # Requirements Engineering: a brief introduction
 
-[![Download slides as PDF](preview.jpg)](./Fundamentals%20of%20Requirements%20Engineering.pdf)
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0)
 
-## Overview
+[![Download slides as PDF](figures/preview.jpg)](./Fundamentals%20of%20Requirements%20Engineering.pdf)
 
-*Requirements Engineering: a brief introduction* is a very brief summary of the most important concepts of requirements engineering (RE) and their application. It was originally developed as a guest lecture for a software engineering (SE) course to provide Bachelor level students with a general overview of (RE) theory[^1] and techniques[^2]. The material does not require any prior knowledge about RE, but assumes a basic understanding of SE process models.
+**Requirements Engineering: a brief introduction** is a very concise summary of the most important concepts of requirements engineering (RE) and their application. 
+It was originally developed as a guest lecture for a software engineering (SE) course to provide Bachelor level students with a general overview of (RE) theory[^1] and techniques.[^2]
+The material does not require any prior knowledge about RE, but assumes a basic understanding of SE process models.
 
-## Files
+## Structure
 
-* [Download PDF](./Fundamentals%20of%20Requirements%20Engineering.pdf)
-* [Download PPTX](./Fundamentals%20of%20Requirements%20Engineering.pptx)
+This repository contains the following files.
+
+```
+├── figures: additional visual material
+│   └── preview.png: opening slide of the main slide deck
+├── Fundamentals of Requirements Engineering.pdf: pre-compiled slides (without animations)
+├── Fundamentals of Requirements Engineering.pptx: presentable PowerPoint-version of the slides
+└── LICENSE.md : license file clarifying reuse of this material
+```
 
 ## License
 
-**[Requirements Engineering: a brief introduction](https://github.com/bth-dipt-teaching/req-eng-fundamentals)**
-© 2023 by [Julian Frattini](https://www.bth.se/eng/staff/julian-frattini-juf/)
-is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0) 
-
-## References
+**Requirements Engineering: a brief introduction**
+© 2023 by [Julian Frattini](https://julianfrattini.github.io/)
+is licensed under [CC BY-NC 4.0](LICENSE) 
 
 [^1]: Glinz, M. (2011). [A glossary of requirements engineering terminology. Standard Glossary of the Certified Professional for Requirements Engineering (CPRE) Studies and Exam](https://files.ifi.uzh.ch/rerg/amadeus/publications/various/RE-Glossary_version_1.1b.pdf), Version 1.1b.
 
-[^2]: Méndez Fernández, D., & Penzenstadler, B. (2015). [Artefact-based requirements engineering: the AMDiRE approach](https://link.springer.com/article/10.1007/s00766-014-0206-y). Requirements Engineering, 20, 405-434.
+[^2]: Méndez Fernández, D., & Penzenstadler, B. (2015). [Artefact-based requirements engineering: the AMDiRE approach](https://link.springer.com/article/10.1007/s00766-014-0206-y). Requirements Engineering, 20, 405-434. DOI: 10.1007/s00766-014-0206-y
