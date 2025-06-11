@@ -41,7 +41,7 @@ Every subdirectory represents one unit.
 ## License
 
 **Requirements Engineering: a brief introduction**
-© 2023 by [Julian Frattini](https://julianfrattini.github.io/)
+© 2025 by [Julian Frattini](https://julianfrattini.github.io/)
 is licensed under [CC BY-NC 4.0](LICENSE) 
 
 [^1]: Glinz, M. (2011). [A glossary of requirements engineering terminology. Standard Glossary of the Certified Professional for Requirements Engineering (CPRE) Studies and Exam](https://files.ifi.uzh.ch/rerg/amadeus/publications/various/RE-Glossary_version_1.1b.pdf), Version 1.1b.
